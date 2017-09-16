@@ -1,4 +1,4 @@
 ```shell
-	go env
-	go install 
+	- go env
+	- go install 
 ```	
