@@ -1,2 +1,4 @@
-go env
-go install 
+```shell
+	go env
+	go install 
+```	
